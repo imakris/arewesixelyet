@@ -403,7 +403,7 @@ From release 1.80: https://code.visualstudio.com/updates/v1_80#_image-support
 
 {{< supported >}}
 
-[vnm_terminal](https://github.com/Varinomics/vnm_terminal) supports SIXEL graphics in [v1.6.1](https://github.com/Varinomics/vnm_terminal/releases/tag/v1.6.1) when cell pixel size is available.
+From version 1.6.1: https://github.com/Varinomics/vnm_terminal/releases/tag/v1.6.1.
 
 ---
 
